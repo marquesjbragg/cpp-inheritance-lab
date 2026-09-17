@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/tests/test_serialization.cpp.o -o tests  libcore.a _deps/catch2-build/src/libCatch2Main.a _deps/yaml-cpp-build/libyaml-cpp.a _deps/catch2-build/src/libCatch2.a 

@@ -1,0 +1,14 @@
+# Target labels
+ yaml-cpp-populate
+# Source files and their labels
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/CMakeFiles/yaml-cpp-populate-complete.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-build.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-configure.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-download.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-install.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-mkdir.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-patch.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-test.rule
+/workspaces/cpp-inheritance-lab/build/_deps/yaml-cpp-subbuild/yaml-cpp-populate-prefix/src/yaml-cpp-populate-stamp/yaml-cpp-populate-update.rule

@@ -1,0 +1,83 @@
+Start testing: Sep 17 17:17 UTC
+----------------------------------------------------------
+1/4 Testing: Student JSON serialization
+1/4 Test: Student JSON serialization
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Student JSON serialization"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Student JSON serialization" start time: Sep 17 17:17 UTC
+Output:
+----------------------------------------------------------
+Filters: "Student JSON serialization"
+Randomness seeded to: 484230046
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Student JSON serialization" end time: Sep 17 17:17 UTC
+"Student JSON serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: Instructor YAML serialization
+2/4 Test: Instructor YAML serialization
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Instructor YAML serialization"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Instructor YAML serialization" start time: Sep 17 17:17 UTC
+Output:
+----------------------------------------------------------
+Filters: "Instructor YAML serialization"
+Randomness seeded to: 1166683187
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Instructor YAML serialization" end time: Sep 17 17:17 UTC
+"Instructor YAML serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: CSV escaping handles commas and quotes
+3/4 Test: CSV escaping handles commas and quotes
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "CSV escaping handles commas and quotes"
+Directory: /workspaces/cpp-inheritance-lab/build
+"CSV escaping handles commas and quotes" start time: Sep 17 17:17 UTC
+Output:
+----------------------------------------------------------
+Filters: "CSV escaping handles commas and quotes"
+Randomness seeded to: 2758939795
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CSV escaping handles commas and quotes" end time: Sep 17 17:17 UTC
+"CSV escaping handles commas and quotes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: Validation throws on bad email
+4/4 Test: Validation throws on bad email
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Validation throws on bad email"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Validation throws on bad email" start time: Sep 17 17:17 UTC
+Output:
+----------------------------------------------------------
+Filters: "Validation throws on bad email"
+Randomness seeded to: 2565805443
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Validation throws on bad email" end time: Sep 17 17:17 UTC
+"Validation throws on bad email" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 17 17:17 UTC
