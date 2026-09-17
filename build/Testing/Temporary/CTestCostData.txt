@@ -1,5 +1,17 @@
-Student JSON serialization 1 0.00660249
-Instructor YAML serialization 1 0.00577347
-CSV escaping handles commas and quotes 1 0.00611712
-Validation throws on bad email 1 0.0116388
+Student 0 0
+Instructor 0 0
+CSV 0 0
+Validation 0 0
+Student 0 0
+Instructor 0 0
+CSV 0 0
+Validation 0 0
+Polymorphic 0 0
+Student JSON serialization 1 0.00339056
+Instructor YAML serialization 1 0.00338729
+CSV escaping handles commas and quotes 1 0.00393974
+Validation throws on bad email 1 0.00356862
+Polymorphic CSV writer emits superset header with stable columns 1 0.00352359
+Course serializes via interface only (LSP) 1 0.00418081
+Course throws on empty title 1 0.00319482
 ---

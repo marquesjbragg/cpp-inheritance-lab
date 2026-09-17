@@ -1,83 +1,143 @@
-Start testing: Sep 17 17:17 UTC
+Start testing: Sep 17 17:27 UTC
 ----------------------------------------------------------
-1/4 Testing: Student JSON serialization
-1/4 Test: Student JSON serialization
+1/7 Testing: Student JSON serialization
+1/7 Test: Student JSON serialization
 Command: "/workspaces/cpp-inheritance-lab/build/tests" "Student JSON serialization"
 Directory: /workspaces/cpp-inheritance-lab/build
-"Student JSON serialization" start time: Sep 17 17:17 UTC
+"Student JSON serialization" start time: Sep 17 17:27 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Student JSON serialization"
-Randomness seeded to: 484230046
+Randomness seeded to: 362003657
 ===============================================================================
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Student JSON serialization" end time: Sep 17 17:17 UTC
+"Student JSON serialization" end time: Sep 17 17:27 UTC
 "Student JSON serialization" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-2/4 Testing: Instructor YAML serialization
-2/4 Test: Instructor YAML serialization
+2/7 Testing: Instructor YAML serialization
+2/7 Test: Instructor YAML serialization
 Command: "/workspaces/cpp-inheritance-lab/build/tests" "Instructor YAML serialization"
 Directory: /workspaces/cpp-inheritance-lab/build
-"Instructor YAML serialization" start time: Sep 17 17:17 UTC
+"Instructor YAML serialization" start time: Sep 17 17:27 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Instructor YAML serialization"
-Randomness seeded to: 1166683187
+Randomness seeded to: 494717299
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Instructor YAML serialization" end time: Sep 17 17:17 UTC
+"Instructor YAML serialization" end time: Sep 17 17:27 UTC
 "Instructor YAML serialization" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-3/4 Testing: CSV escaping handles commas and quotes
-3/4 Test: CSV escaping handles commas and quotes
+3/7 Testing: CSV escaping handles commas and quotes
+3/7 Test: CSV escaping handles commas and quotes
 Command: "/workspaces/cpp-inheritance-lab/build/tests" "CSV escaping handles commas and quotes"
 Directory: /workspaces/cpp-inheritance-lab/build
-"CSV escaping handles commas and quotes" start time: Sep 17 17:17 UTC
+"CSV escaping handles commas and quotes" start time: Sep 17 17:27 UTC
 Output:
 ----------------------------------------------------------
 Filters: "CSV escaping handles commas and quotes"
-Randomness seeded to: 2758939795
+Randomness seeded to: 31597998
 ===============================================================================
 All tests passed (1 assertion in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"CSV escaping handles commas and quotes" end time: Sep 17 17:17 UTC
+"CSV escaping handles commas and quotes" end time: Sep 17 17:27 UTC
 "CSV escaping handles commas and quotes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-4/4 Testing: Validation throws on bad email
-4/4 Test: Validation throws on bad email
+4/7 Testing: Validation throws on bad email
+4/7 Test: Validation throws on bad email
 Command: "/workspaces/cpp-inheritance-lab/build/tests" "Validation throws on bad email"
 Directory: /workspaces/cpp-inheritance-lab/build
-"Validation throws on bad email" start time: Sep 17 17:17 UTC
+"Validation throws on bad email" start time: Sep 17 17:27 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Validation throws on bad email"
-Randomness seeded to: 2565805443
+Randomness seeded to: 193504071
 ===============================================================================
 All tests passed (1 assertion in 1 test case)
 
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Validation throws on bad email" end time: Sep 17 17:17 UTC
+"Validation throws on bad email" end time: Sep 17 17:27 UTC
 "Validation throws on bad email" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 17 17:17 UTC
+5/7 Testing: Polymorphic CSV writer emits superset header with stable columns
+5/7 Test: Polymorphic CSV writer emits superset header with stable columns
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Polymorphic CSV writer emits superset header with stable columns"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Polymorphic CSV writer emits superset header with stable columns" start time: Sep 17 17:27 UTC
+Output:
+----------------------------------------------------------
+Filters: "Polymorphic CSV writer emits superset header with stable columns"
+Randomness seeded to: 1024780778
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Polymorphic CSV writer emits superset header with stable columns" end time: Sep 17 17:27 UTC
+"Polymorphic CSV writer emits superset header with stable columns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: Course serializes via interface only (LSP)
+6/7 Test: Course serializes via interface only (LSP)
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Course serializes via interface only (LSP)"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Course serializes via interface only (LSP)" start time: Sep 17 17:27 UTC
+Output:
+----------------------------------------------------------
+Filters: "Course serializes via interface only (LSP)"
+Randomness seeded to: 1364052559
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Course serializes via interface only (LSP)" end time: Sep 17 17:27 UTC
+"Course serializes via interface only (LSP)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: Course throws on empty title
+7/7 Test: Course throws on empty title
+Command: "/workspaces/cpp-inheritance-lab/build/tests" "Course throws on empty title"
+Directory: /workspaces/cpp-inheritance-lab/build
+"Course throws on empty title" start time: Sep 17 17:27 UTC
+Output:
+----------------------------------------------------------
+Filters: "Course throws on empty title"
+Randomness seeded to: 3916842317
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Course throws on empty title" end time: Sep 17 17:27 UTC
+"Course throws on empty title" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 17 17:27 UTC

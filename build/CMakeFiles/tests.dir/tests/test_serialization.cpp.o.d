@@ -420,4 +420,6 @@ CMakeFiles/tests.dir/tests/test_serialization.cpp.o: \
  /usr/include/c++/13/bits/regex_executor.h \
  /usr/include/c++/13/bits/regex_executor.tcc \
  /workspaces/cpp-inheritance-lab/src/csv.hpp \
- /workspaces/cpp-inheritance-lab/src/instructor.hpp
+ /workspaces/cpp-inheritance-lab/src/instructor.hpp \
+ /workspaces/cpp-inheritance-lab/src/csv_writer.hpp \
+ /workspaces/cpp-inheritance-lab/src/course.hpp
